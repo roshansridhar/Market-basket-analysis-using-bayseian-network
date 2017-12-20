@@ -44,3 +44,6 @@ Once the posterior is calculated, it becomes our new prior.
 
 For our first order, we get the prior calculating an informed prior using the formula:  
 ![alt text](https://latex.codecogs.com/gif.latex?Prior%5C%20%3D%5C%20%5Cfrac%7BNumber%5C%20of%5C%20reorders%7D%7BNumber%5C%20of%5C%20orders%7D)
+
+#### Prediction:
+The predictions are stored in [predictions.csv](https://github.com/roshansridhar/Market-basket-analysis-using-bayseian-network/blob/master/predictions.csv) in the format that was needed to be submitted for the competition.
